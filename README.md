@@ -14,6 +14,6 @@ I am Paul and I like to develop stuff!
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#981](https://github.com/simplecov-ruby/simplecov/issues/981) in [simplecov-ruby/simplecov](https://github.com/simplecov-ruby/simplecov)
-2. 🗣 Commented on [#982](https://github.com/simplecov-ruby/simplecov/issues/982) in [simplecov-ruby/simplecov](https://github.com/simplecov-ruby/simplecov)
+1. 🎉 Merged PR [#2](https://github.com/ptrippett/hello/pull/2) in [ptrippett/hello](https://github.com/ptrippett/hello)
+2. 🎉 Merged PR [#1](https://github.com/ptrippett/hello/pull/1) in [ptrippett/hello](https://github.com/ptrippett/hello)
 <!--END_SECTION:activity-->
