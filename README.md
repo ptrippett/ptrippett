@@ -14,6 +14,6 @@ I am Paul and I like to develop stuff!
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/ptrippett/hello/pull/2) in [ptrippett/hello](https://github.com/ptrippett/hello)
-2. 🎉 Merged PR [#1](https://github.com/ptrippett/hello/pull/1) in [ptrippett/hello](https://github.com/ptrippett/hello)
+1. 💪 Opened PR [#6161](https://github.com/github/docs/pull/6161) in [github/docs](https://github.com/github/docs)
+2. ❗️ Opened issue [#6160](https://github.com/github/docs/issues/6160) in [github/docs](https://github.com/github/docs)
 <!--END_SECTION:activity-->
