@@ -9,6 +9,7 @@ I am Paul and I like to develop stuff!
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ptrippett" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptrippett&layout=compact" />
 </p>
 
 ### :zap: Recent Activity
