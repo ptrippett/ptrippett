@@ -15,6 +15,6 @@ I am Paul and I like to develop stuff!
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6161](https://github.com/github/docs/pull/6161) in [github/docs](https://github.com/github/docs)
-2. ❗️ Opened issue [#6160](https://github.com/github/docs/issues/6160) in [github/docs](https://github.com/github/docs)
+1. 🗣 Commented on [#991](https://github.com/simplecov-ruby/simplecov/issues/991) in [simplecov-ruby/simplecov](https://github.com/simplecov-ruby/simplecov)
+2. 🗣 Commented on [#990](https://github.com/simplecov-ruby/simplecov/issues/990) in [simplecov-ruby/simplecov](https://github.com/simplecov-ruby/simplecov)
 <!--END_SECTION:activity-->
