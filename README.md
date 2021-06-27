@@ -15,6 +15,6 @@ I am Paul and I like to develop stuff!
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2238](https://github.com/gophish/gophish/pull/2238) in [gophish/gophish](https://github.com/gophish/gophish)
-2. 🗣 Commented on [#989](https://github.com/simplecov-ruby/simplecov/issues/989) in [simplecov-ruby/simplecov](https://github.com/simplecov-ruby/simplecov)
+1. ❗️ Closed issue [#154](https://github.com/tilo/smarter_csv/issues/154) in [tilo/smarter_csv](https://github.com/tilo/smarter_csv)
+2. 💪 Opened PR [#2238](https://github.com/gophish/gophish/pull/2238) in [gophish/gophish](https://github.com/gophish/gophish)
 <!--END_SECTION:activity-->
